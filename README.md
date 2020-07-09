@@ -1,0 +1,2 @@
+# Rhyno
+A discord bot
